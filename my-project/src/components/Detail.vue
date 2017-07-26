@@ -11,7 +11,6 @@
               <v-flex xs12 align-end flexbox>
                 <span class="headline">{{ perso.pseudo }} - <small>{{ perso.like }}</small></span>
                 <v-chip :class="{ primary: perso.note >= 3, 'red': perso.note < 3 }" class="white--text">{{ perso.note }} / 5</v-chip>
-
               </v-flex>
             </v-layout>
           </v-container>
