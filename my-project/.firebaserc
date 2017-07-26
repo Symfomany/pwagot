@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "vuejs": "angularlyon",
+    "default": "angularlyon"
+  }
+}

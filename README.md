@@ -2,11 +2,10 @@
 
 > A full-featured [PWA](https://developers.google.com/web/progressive-web-apps/) template with webpack, hot-reload, lint-on-save, unit testing & css extraction.
 
-## Documentation
 
-- This template builds on top of the main webpack template, so please refer to the [webpack template docs](http://vuejs-templates.github.io/webpack).
+# deploy in firebase cli
 
-- Check out the [official Vue.js guide](http://vuejs.org/guide/) for general information about Vue that is not specific to this template.
+> firebase deploy
 
 ## Usage
 
